@@ -70,7 +70,7 @@ $ yarn watch # npm run watch
 
 > If you click negative answers, you can see the following results and emojis reaction 😐, 😕, 🙁, 😭, 😡, 🤬:
 
-![Screenshot](svelte-1.png)
+![Screenshot](./screenshots/svelte-1.png)
 
 ![Screenshot](svelte-2.png)
 
