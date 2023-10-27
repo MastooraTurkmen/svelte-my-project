@@ -56,7 +56,7 @@ $ yarn watch # npm run watch
 
 > If you click positive answers, you can see the following results emojis reaction 🙂, 😀, 😄, 😊, 😘:
 
-![Alt text](Screenshot-2.png)
+![Screenshot](Screenshot-2.png)
 
 ![Alt text](Screenshot-3.png)
 
