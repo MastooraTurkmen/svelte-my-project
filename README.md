@@ -58,7 +58,7 @@ $ yarn watch # npm run watch
 
 ![Screenshot](Screenshot-2.png)
 
-![Alt text](Screenshot-3.png)
+![Screenshot](Screenshot-3.png)
 
 ![Alt text](Screenshot-4.png)
 
