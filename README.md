@@ -37,7 +37,7 @@ $ yarn build # npm run build
 
 ## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+Run Webpack in watch mode to continually compile the JavaScript as you work:
 
 ```
 $ yarn watch # npm run watch
@@ -45,8 +45,8 @@ $ yarn watch # npm run watch
 
 # About My Project
 
-> To start app, write your name on blank :)
-> Select one option to show next result =)
+> To start the app, write your name blank :)
+> Select one option to show the next result =)
 
 ![Alt text](Screenshot.png)
 
