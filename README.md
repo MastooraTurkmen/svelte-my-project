@@ -1,4 +1,4 @@
-# Svelt Prject
+# Svelte Prject
 
 ## Getting started with _npm_
 
@@ -7,6 +7,16 @@ npm create svelte@latest my-app
 cd my-app
 npm install
 npm run dev
+
+```
+
+## Getting started with _pnpm_
+
+```
+pnpm create svelte my-app
+cd my-app
+pnpm install
+pnpm run dev
 
 ```
 
