@@ -50,7 +50,7 @@ $ yarn watch # npm run watch
 
 ![Screenshot](./screenshots/Screenshot.png)
 
-![Screenshot](Screenshot-1.png)
+![Screenshot](./screenshots/Screenshot-1.png)
 
 ## Positive Answers
 
