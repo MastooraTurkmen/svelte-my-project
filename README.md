@@ -1,4 +1,4 @@
-# Svelte Prject
+# Svelte Project
 
 ## Getting started with _npm_
 
