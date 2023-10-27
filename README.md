@@ -78,4 +78,4 @@ $ yarn watch # npm run watch
 
 ![Screenshot](./screenshots/svelte-4.png)
 
-![Screenshot](svelte-5.png)
+![Screenshot](./screenshots/svelte-5.png)
