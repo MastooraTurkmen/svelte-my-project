@@ -74,7 +74,7 @@ $ yarn watch # npm run watch
 
 ![Screenshot](svelte-2.png)
 
-![Alt text](svelte-3.png)
+![Screenshot](svelte-3.png)
 
 ![Alt text](svelte-4.png)
 
