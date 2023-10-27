@@ -54,7 +54,7 @@ $ yarn watch # npm run watch
 
 ## Positive Answers
 
-> If you click positives answers, you can see following results:
+> If you click positives answers, you can see following results emojies reaction 🙂, 😀, 😄, 😊, 😘:
 
 ![Alt text](Screenshot-2.png)
 
@@ -65,3 +65,17 @@ $ yarn watch # npm run watch
 ![Alt text](Screenshot-5.png)
 
 ![Alt text](Screenshot-6.png)
+
+## Negative Answers
+
+> If you click negative answers, you can see following results and emojies reaction 😐, 😕, 🙁, 😭, 😡, 🤬:
+
+![Alt text](svelte-1.png)
+
+![Alt text](svelte-2.png)
+
+![Alt text](svelte-3.png)
+
+![Alt text](svelte-4.png)
+
+![Alt text](svelte-5.png)
