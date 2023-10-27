@@ -48,7 +48,7 @@ $ yarn watch # npm run watch
 > To start the app, write your name blank :)
 > Select one option to show the next result =)
 
-![Screenshot](Screenshot.png)
+![Screenshot](./screenshots/Screenshot.png)
 
 ![Screenshot](Screenshot-1.png)
 
