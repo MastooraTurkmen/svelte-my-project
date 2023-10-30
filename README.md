@@ -27,7 +27,7 @@ You can preview the production build with `npm run preview`.
 npm create svelte@latest my-app
 cd my-app
 npm install
-npm run dev
+npm run dev -- --open
 
 ```
 
