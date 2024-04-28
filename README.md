@@ -37,7 +37,7 @@ npm run dev -- --open
 pnpm create svelte my-app
 cd my-app
 pnpm install
-pnpm run dev
+pnpm run dev -- --open
 
 ```
 
